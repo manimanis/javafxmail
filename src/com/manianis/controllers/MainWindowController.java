@@ -4,15 +4,12 @@
 
 package com.manianis.controllers;
 
-import java.net.URL;
-import java.util.ResourceBundle;
 
 import com.manianis.managers.EmailManager;
 import com.manianis.views.ViewFactory;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TreeView;
 import javafx.scene.web.WebView;
